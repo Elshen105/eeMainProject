@@ -1,4 +1,4 @@
-
+1.Elvin olaraq birinci setrde 5 reqemini deyisirem
 
 public static void main(String[] args) {
 
